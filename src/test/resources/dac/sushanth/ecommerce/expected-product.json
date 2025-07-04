@@ -1,0 +1,9 @@
+{
+  "productId": 12,
+  "productName": "Laptop",
+  "productPrice": 1000.0,
+  "productCategory": "General",
+    "productDescription": "productDescription",
+    "productStock": 0,
+    "productImageUrl": "default.jpg"
+}
